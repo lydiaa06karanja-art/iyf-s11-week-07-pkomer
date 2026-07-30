@@ -84,15 +84,8 @@ npm test
 - Learning how Vitest organizes tests using `describe()`, `it()`, and `expect()`.
 - Resolving test failures by ensuring all required functions were properly exported before running the tests.
 
-## Screenshots (Optional)
-
-![ESLint Results](screenshots/eslint.png)
-
-![Vitest Results](screenshots/vitest.png)
-
-```
-
 ## Live Demo (Optional)
 
-Not deployed.
-```
+[Debugging](https://github.com/pkomer/iyf-s11-week-07-pkomer/tree/main/notes-app/debug)
+[Shopping Cart](https://github.com/pkomer/iyf-s11-week-07-pkomer/tree/main/notes-app/Shopping%20Cart)
+[Contact Form](https://github.com/pkomer/iyf-s11-week-07-pkomer/tree/main/notes-app/to-do-list)
